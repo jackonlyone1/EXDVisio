@@ -1,0 +1,56 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: VisioApp - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ThinkPad\AppData\Local\Temp\RSP6B03.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/VisioApp.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\UCanCode²úÆ·_2013\Ó¢ÎÄ\Samples\VisioApp\VisioApp.cpp"
+]
+Creating command line "cl.exe @C:\Users\ThinkPad\AppData\Local\Temp\RSP6B03.tmp" 
+Creating temporary file "C:\Users\ThinkPad\AppData\Local\Temp\RSP6B04.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/VisioAppD.pdb" /debug /machine:I386 /out:"..\Bin/VisioAppD.exe" /pdbtype:sept 
+".\Debug\ChildFrm.obj"
+".\Debug\DirDialog.obj"
+".\Debug\ExtListBar.obj"
+".\Debug\ExtTabModel.obj"
+".\Debug\ExtTabModelManager.obj"
+".\Debug\FOHyperLink.obj"
+".\Debug\FOPGDIPlusHelper.obj"
+".\Debug\FOPGDIPlusProxy.obj"
+".\Debug\GWExtBmpListBox.obj"
+".\Debug\LinePropDlg.obj"
+".\Debug\MainFrm.obj"
+".\Debug\MBEventEditDlg6.obj"
+".\Debug\MyCorsssLineShape.obj"
+".\Debug\MyCustomProperties.obj"
+".\Debug\MyToolBoxBar.obj"
+".\Debug\MyToolBoxWnd.obj"
+".\Debug\NewOpenPageDlg.obj"
+".\Debug\NewVisualProxy.obj"
+".\Debug\OutputDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\StdioFileEx.obj"
+".\Debug\VisioApp.obj"
+".\Debug\VisioAppDoc.obj"
+".\Debug\VisioAppView.obj"
+".\Debug\VisioApp.res"
+]
+Creating command line "link.exe @C:\Users\ThinkPad\AppData\Local\Temp\RSP6B04.tmp"
+<h3>Output Window</h3>
+Compiling...
+VisioApp.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+VisioAppD.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
