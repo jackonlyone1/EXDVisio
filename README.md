@@ -5,6 +5,9 @@ More with http://www.ucancode.net
 E-XD++ Open Source C++ Library, it supports Vector Drawing, SVG Editing, Visio Like GUI,  flow diagram drawing
 Visio style source code component library, flow charts, vector, graphic editing, printing, SVG import, SVG export, DXF Import, DXF Export, C/C ++ source code, .NET Control.
 E-XD++ component library visual graphics vector graphics solution includes as many as hundreds of features, it is difficult to use a simple list to be listed, the following are just some of the relative importance of some features:
+ http://www.ucancode.net/newvisio_1_small.gif 
+ ![image](https://user-images.githubusercontent.com/96277629/153328628-22b612c5-cbbf-4952-84d5-69c6ef6e7ce3.png)
+
 
    Visio-style multi-page design, you can file for your current graphic design add as many pages.
 
